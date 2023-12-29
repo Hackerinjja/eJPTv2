@@ -1,0 +1,29 @@
+dnsrecon -d example.com	
+dnsdumpster.com (recommended)
+whatis ==> command is telling us what is the command is doing 
+/robots.txt
+/sitemap.xml
+builtiwith exetention 
+wappalizer extention
+whatweb example.com ==> utility or command
+httrack binary download and install it ==> for download and analyze the source code for a specific page
+whois command or website
+netcraft website ==> an Input box that allows you to check what a site is running
+dnsrecon utility ==> provide us with name servers, any records and mailserver addresses
+sublist3r ==> enumerate subdomains
+wafw00f ==> The Web Application Firewall Fingerprinting Tool
+google dorks
+the way back machine site
+google hacking database
+theharvester ==> gather emails, names, subdomains, IPs and URLs
+haveibeenpwned site for leaked databases
+dnsenum utility 
+dig utility
+fierce utility
+nmap
+netdiscover ==> performing a host discovery
+ping utility
+wireshark
+fping utility
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+تم بحمدالله
